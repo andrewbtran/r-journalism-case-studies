@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Github/wesleyan-case-studies/schools-disparity/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

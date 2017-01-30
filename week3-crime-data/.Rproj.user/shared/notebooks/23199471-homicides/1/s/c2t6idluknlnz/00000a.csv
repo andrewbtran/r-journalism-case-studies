@@ -1,0 +1,10 @@
+"0","h2015 <- arrange(h2015, desc(Population))
+# Grabbing just the first 50 cities
+h2015_50 <- h2015[1:50,]
+# Prepping the two dataframes for joining
+h2015_50 <- select(h2015_50, State, City, Homcides2015=Murder.and.nonnegligent.manslaughter)
+h2014 <- select(h2014, State, City, Homcides2014=Murder.and.nonnegligent.manslaughter)
+"
+"2","Error in eval(expr, envir, enclos) : 
+  object 'Murder.and.nonnegligent.manslaughter' not found
+"

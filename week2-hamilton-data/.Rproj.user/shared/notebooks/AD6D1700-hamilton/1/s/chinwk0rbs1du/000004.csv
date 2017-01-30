@@ -1,0 +1,4 @@
+"0","ham <- rbind(ham1,ham2)
+"
+"2","Error in rbind(ham1, ham2) : object 'ham1' not found
+"

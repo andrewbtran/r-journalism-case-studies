@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1485719209559.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "470F2AD9",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : 1485719209559,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "95E90F14",
+        "caption" : "re_trends",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=re_trends&cache_key=95E90F14",
+        "displayedObservations" : "25",
+        "environment" : "",
+        "object" : "re_trends",
+        "preview" : "0",
+        "totalObservations" : "25",
+        "variables" : "3"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

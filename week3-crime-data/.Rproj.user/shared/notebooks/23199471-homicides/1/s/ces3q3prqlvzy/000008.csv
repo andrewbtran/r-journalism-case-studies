@@ -1,0 +1,17 @@
+"0","trends <- read_csv(""data/LocalCrimeTrendsInOneVar.csv"")
+"
+"2","Parsed with column specification:
+cols(
+  `Uniform Crime Reporting Statistics - UCR Data Online` = col_character()
+)
+"
+"2","87 parsing failures.
+row col  expected     actual
+  3  -- 1 columns 28 columns
+  4  -- 1 columns 28 columns
+  5  -- 1 columns 28 columns
+  6  -- 1 columns 28 columns
+  7  -- 1 columns 28 columns
+... ... ......... ..........
+See problems(...) for more details.
+"

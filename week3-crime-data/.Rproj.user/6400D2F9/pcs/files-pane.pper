@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Github/wesleyan-case-studies/crime-data/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+"0","summary_all <- left_join(cv_summary, state_gap_summary)
+"
+"2","Joining, by = ""stateabb""
+"
